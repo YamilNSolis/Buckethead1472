@@ -4,11 +4,11 @@
 
 🚀 Hola, soy Yamil Solis Diaz
 
-Systems Engineer | Data Engineering Specializing | Data Analytics
+Data Analyst en formación | Ingeniero de Sistemas
 
 
 <div align="justify">
-Ingeniero de Sistemas e Informática con sólida base técnica, actualmente especializándome en Data Engineering. Enfocado en el aprendizaje continuo sobre arquitecturas de datos, procesos ETL y optimización de bases de datos. Mi objetivo es aplicar principios de ingeniería para construir soluciones de datos robustas y escalables.
+Analista de datos en formación, con base en ingeniería de sistemas. Trabajo con SQL y Power BI para transformar datos en información accionable para el negocio. Mi formación técnica me da una lectura más profunda de cómo se estructuran y relacionan los datos, algo que aplico directamente al análisis. Actualmente construyendo portfolio con foco en storytelling de datos y toma de decisiones.
 </div>
 
 ### Skills
