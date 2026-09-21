@@ -1,11 +1,7 @@
-![Banner de Yamil Solis Diaz](banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamilnsolisdiaz-data)
 
 🚀 Hola, soy Yamil Solis Diaz
-
-Data Analyst en formación | Ingeniero de Sistemas
-
 
 <div align="justify">
 Analista de datos en formación, con base en ingeniería de sistemas. Trabajo con SQL y Power BI para transformar datos en información accionable para el negocio. Mi formación técnica me da una lectura más profunda de cómo se estructuran y relacionan los datos, algo que aplico directamente al análisis. Actualmente construyendo portfolio con foco en storytelling de datos y toma de decisiones.
